@@ -1,0 +1,6 @@
+wp-config.php
+mysql_data/
+node_modules/
+*.cache
+.cache/
+wp-content/cache/
